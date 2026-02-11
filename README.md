@@ -1,4 +1,4 @@
-# PiRSClock 使用方法
+# RadioClock 使用方法
 
 ## 画面構成
 
